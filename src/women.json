@@ -1,0 +1,234 @@
+{
+  "headers": "women",
+  "items": [
+    {
+      "id": "2",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff",
+        "#d3a7ac"
+      ],
+      "price": "36.00",
+      "img": "shirt"
+    },
+    {
+      "id": "3",
+      "name": "TREKKING SHOES",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff"
+      ],
+      "price": "60.00",
+      "img": "shoes"
+    },
+    {
+      "id": "1",
+      "name": "GIACKET",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "green",
+        "#d3a7ac"
+      ],
+      "price": "37.00",
+      "img": "giacket"
+    },
+    {
+      "id": "4",
+      "name": "GIACKET",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff"
+      ],
+      "price": "25.00",
+      "img": "giacket"
+    },
+    {
+      "id": "5",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#d3a7ac"
+      ],
+      "price": "30.00",
+      "img": "pants"
+    },
+    {
+      "id": "6",
+      "name": "TREKKING SHOES",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffffff",
+        "#d3a7ac"
+      ],
+      "price": "60.00",
+      "img": "shoes"
+    },
+    {
+      "id": "7",
+      "name": "GIACKET",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffffff",
+        "#d3a7ac"
+      ],
+      "price": "5.10",
+      "img": "giacket"
+    },
+    {
+      "id": "8",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff"
+      ],
+      "price": "30.99",
+      "img": "shirt"
+    },
+    {
+      "id": "9",
+      "name": "TREKKING SHOES",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffffff",
+        "#d3a7ac"
+      ],
+      "price": "60.88",
+      "img": "shoes"
+    },
+    {
+      "id": "10",
+      "name": "GIACKET",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff"
+      ],
+      "price": "5.10",
+      "img": "giacket"
+    },
+    {
+      "id": "11",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#d3a7ac"
+      ],
+      "price": "30.30",
+      "img": "shirt"
+    },
+    {
+      "id": "12",
+      "name": "TREKKING SHOES",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff"
+      ],
+      "price": "60.80",
+      "img": "shoes"
+    },
+    {
+      "id": "13",
+      "name": "GIACKET",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffffff",
+        "#d3a7ac"
+      ],
+      "price": "5.70",
+      "img": "giacket"
+    },
+    {
+      "id": "14",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff",
+        "#d3a7ac"
+      ],
+      "price": "30.40",
+      "img": "shirt"
+    },
+    {
+      "id": "15",
+      "name": "TREKKING SHOES",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffffff",
+        "#d3a7ac"
+      ],
+      "price": "60.10",
+      "img": "shoes"
+    }
+  ],
+  "total": 15
+}

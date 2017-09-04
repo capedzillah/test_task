@@ -1,0 +1,234 @@
+{
+  "headers": "men",
+  "items": [
+    {
+      "id": "1",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "55.00",
+      "img": "t-shirt"
+    },
+    {
+      "id": "2",
+      "name": "PANTS FORCLAZ",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "32.00",
+      "img": "pants"
+    },
+    {
+      "id": "3",
+      "name": "BACKPACK",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637"
+      ],
+      "price": "60.00",
+      "img": "backpack"
+    },
+    {
+      "id": "4",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637"
+      ],
+      "price": "5.00",
+      "img": "t-shirt"
+    },
+    {
+      "id": "7",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "12.00",
+      "img": "t-shirt"
+    },
+    {
+      "id": "8",
+      "name": "PANTS FORCLAZ",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637"
+      ],
+      "price": "26.00",
+      "img": "pants"
+    },
+    {
+      "id": "6",
+      "name": "BACKPACK",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "24.00",
+      "img": "backpack"
+    },
+    {
+      "id": "5",
+      "name": "PANTS FORCLAZ",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#535253"
+      ],
+      "price": "30.00",
+      "img": "pants"
+    },
+    {
+      "id": "9",
+      "name": "BACKPACK",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "60.00",
+      "img": "backpack"
+    },
+    {
+      "id": "10",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637"
+      ],
+      "price": "5.00",
+      "img": "t-shirt"
+    },
+    {
+      "id": "11",
+      "name": "PANTS FORCLAZ",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#535253"
+      ],
+      "price": "30.00",
+      "img": "pants"
+    },
+    {
+      "id": "12",
+      "name": "BACKPACK",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637"
+      ],
+      "price": "60.00",
+      "img": "backpack"
+    },
+    {
+      "id": "13",
+      "name": "T-SHIRT",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "5.70",
+      "img": "t-shirt"
+    },
+    {
+      "id": "14",
+      "name": "PANTS FORCLAZ",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "30.00",
+      "img": "pants"
+    },
+    {
+      "id": "15",
+      "name": "BACKPACK",
+      "size": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "colors": [
+        "#165eb9",
+        "#ffe637",
+        "#535253"
+      ],
+      "price": "60.00",
+      "img": "backpack"
+    }
+  ],
+  "total": 15
+}

@@ -1,0 +1,35 @@
+{
+  "name": "a-simple-react-router-v4-tutorial",
+  "description": "https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf",
+  "version": "0.0.52",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp-install": "^0.6.0",
+    "lodash": "^4.17.4",
+    "react": "15.5.3",
+    "react-bootstrap": "^0.31.2",
+    "react-dom": "15.5.3",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "4.1.1",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.8",
+    "gulp-watch-less": "^1.0.1",
+    "pump": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
